@@ -1,4 +1,4 @@
-this is a presentation on Grover's Algorithm, a quntum computing algorithm 
+## This is a presentation on Grover's Algorithm, a quntum computing algorithm 
 
 
 Abstract—Now-a-days, the use of No-SQL databases is one of
