@@ -20,9 +20,7 @@ experiments outcomes revealed encouraging results, with an
 accuracy of 0.948, well in accordance with the theoretical result.
 Moreover, a discussion of the sensitivity of Grover's algorithm
 through different iterations was carried out. Then, exceeding the
-optimal number of iterations round (
-
-√ ), induces low accuracy
+optimal number of iterations round (√ ), induces low accuracy
 of the marked state. Furthermore, the incorrect selection of this
 parameter can outline the solution.
 Keywords—Big data; data management; information retrieval;
